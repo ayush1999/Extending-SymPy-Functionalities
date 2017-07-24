@@ -11,4 +11,22 @@ P.S. Made using SymPy 1.1 </br>
 
 (New Modules to be added Every week.)</br>
 Some of the Modules maybe incomplete, indicating that there is work going on.</br>
-Suggestions to improve code are welcome in the form of a Pull Request  !
+Suggestions to improve code are welcome in the form of a Pull Request  !</br>
+For Downloading SymPy:</br>
+## Debian</br>
+
+SymPy is in Debian Lenny and later. The SymPy versions in Debian can be seen here: http://packages.debian.org/python-sympy
+
+With current stable sources, you can install sympy by running:
+
+```apt-get install python-sympy```
+
+## Ubuntu</br>
+
+SymPy is in Ubuntu Gutsy Gibbon (7.10) and later. The SymPy versions in Ubuntu can be seen here: http://packages.ubuntu.com/python-sympy.
+
+With current versions, you can install sympy by running:
+
+```apt-get install python-sympy```
+
+
