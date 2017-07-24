@@ -12,6 +12,10 @@ P.S. Made using SymPy 1.1 </br>
 (New Modules to be added Every week.)</br>
 Some of the Modules maybe incomplete, indicating that there is work going on.</br>
 Suggestions to improve code are welcome in the form of a Pull Request  !</br>
+For downloading the modules simply clone it to your local machine using </br>
+
+```git clone https://github.com/ayush1999/Extending-SymPy-Functionalities```
+
 For Downloading SymPy:</br>
 ## Debian</br>
 
