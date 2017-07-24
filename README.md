@@ -10,4 +10,5 @@ For this, I'll be using the SymPy package itself.</br>
 P.S. Made using SymPy 1.1 </br>
 
 (New Modules to be added Every week.)</br>
-Some of the Modules maybe incomplete, indicating that there is work going on.
+Some of the Modules maybe incomplete, indicating that there is work going on.</br>
+Suggestions to improve code are welcome in the form of a Pull Request  !
