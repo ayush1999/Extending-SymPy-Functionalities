@@ -27,12 +27,4 @@ def distance(arg1, arg2):
         # Now, arg1 is the point and arg2 is the Linear Entity
 
         return arg2.perpendicular_segment(arg1).length
-    if isinstance(arg1, Point2D) and isinstance(arg2, Point2D):
-        return sqrt((arg1[0]-arg2[0])**2 + (arg1[1]-arg2[1])**2)
-
-    if isinstance(arg1, Point3D) and isinstance(arg2, Point3D):
-        return sqrt((arg1[0]-arg2[0])**2 + (arg1[1]-arg2[1])**2 + (arg1[2]-arg2[2])**2 )
-
-    if (isinstance(arg1, Line2D) and isinstance(arg2, Point2D)) or (isinstance(arg1, Point2D) and isinstance(arg2, Line2D)):
-        
 
