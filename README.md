@@ -6,6 +6,7 @@ For those of you who don't know, SymPy is a Symbolic Computation Library:</br>
 <a href="https://github.com/sympy/sympy">SymPy- Github</a>
 
 I'll be adding some new stuff that is currently not available in SymPy.
+Also, other libraries will be used whenever necessary.
 For this, I'll be using the SymPy package itself.</br>
 P.S. Made using SymPy 1.1 </br>
 
